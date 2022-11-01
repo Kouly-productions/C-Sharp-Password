@@ -1,0 +1,9 @@
+C:\Users\eliko\Documents\Password 2\AllCases\bin\Debug\netstandard2.0\AllCases.deps.json
+C:\Users\eliko\Documents\Password 2\AllCases\bin\Debug\netstandard2.0\AllCases.dll
+C:\Users\eliko\Documents\Password 2\AllCases\bin\Debug\netstandard2.0\AllCases.pdb
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.csprojAssemblyReference.cache
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.csproj.CoreCompileInputs.cache
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.AssemblyInfoInputs.cache
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.AssemblyInfo.cs
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.dll
+C:\Users\eliko\Documents\Password 2\AllCases\obj\Debug\netstandard2.0\AllCases.pdb
